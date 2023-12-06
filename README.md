@@ -1,10 +1,8 @@
 <h1 align="center"><b>Hola! , Soy Fernando Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend Developer; Python Developer;Operador Linux"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend%20Developer;Python%20Developer;Operador%20Linux" alt="Typing SVG"></a>
 </p>
-
-<br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
@@ -32,24 +30,29 @@ Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abiert
 
 - **Languages**:
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,python,django,fastapi,bash)](https://skillicons.dev)   
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,python,django,fastapi,bash&perline=12" />
+  </a>
+</p>
 
 <br>
 
 - **Cloud Hosting**:
-<br >
-  [![My Skills](https://skillicons.dev/icons?i=firebase,github,netlify)](https://skillicons.dev)  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,github,netlify&perline=12" />
+  </a>
+</p>
 
-<br>
+<br >
 
 - **Softwares and Tools**:
-<br>
-<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode)](https://skillicons.dev)  
-
-<br >
-
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&perline=12" />
+  </a>
+</p>
 
 <br>
 
@@ -68,13 +71,6 @@ Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abiert
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
----
-
-<br>
 <br>
 
 ## <b> Contactame</b>
