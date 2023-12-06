@@ -1,11 +1,7 @@
 <h1 align="center"><b>Hola! , Soy Fernando Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer+JavaScript;Angular+ReactJS+Ionic; Linux+Operador Linux+Debian+Red Hat+Archlinux,;Python+Bash+APIs"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend Developer; Python Developer;Operador Linux;"></a>
 </p>
 
 <br>
@@ -16,10 +12,13 @@
 
 <br>
 
-- Fronted Developer
-- Operador Linux
-- Linuxero de corazon
-- Continuamente aprendiendo
+<p>
+  Soy un apasionado desarrollador web full stack con experiencia en <b>Python, Django, Django Rest Framework, Angular, Ionic y Firebase</b>. Aunque soy un desarrollador junior, me esfuerzo por crear aplicaciones web y móviles funcionales y atractivas. Mi objetivo principal es proporcionar experiencias intuitivas y de alta calidad a los usuarios.
+
+En mi portafolio, encontrarás ejemplos de proyectos anteriores que demuestran mis habilidades en el desarrollo web full stack. Estoy emocionado por seguir creciendo y colaborar en proyectos innovadores.
+
+Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abierto a nuevas oportunidades y desafíos en el mundo del desarrollo web. ¡Espero conectar con otros profesionales apasionados y construir juntos un futuro digital emocionante
+</p>
 
 <br>
 
@@ -61,7 +60,7 @@
 <div align="center">
 
 <a href="https://github.com/fernandogonzalez90/">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandogonzalez90&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=6c91b2&b27ADB&icon_color=6c91b2&text_color=6c91b2&bg_color=383838,383838,383838" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandogonzalez90&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=6c91b2&icon_color=6c91b2&text_color=6c91b2&bg_color=383838,383838,383838" width="450"/>
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandogonzalez90&show_icons=true&locale=en&layout=compact&line_height=20&title_color=6c91b2&icon_color=6c91b2&text_color=6c91b2&bg_color=383838,383838,383838" width="375"  alt="fernandogonzalez90"/>
