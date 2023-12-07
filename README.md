@@ -28,7 +28,6 @@ Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abiert
 <p align="center">
 
 - **Languages**:
-<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,python,django,fastapi,bash&perline=12" />
@@ -80,7 +79,7 @@ Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abiert
 <ul>
 
 <li>
-<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="www.linkedin.com/in/fernando-emanuel-gonzalez" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Fernando Gonzalez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -94,8 +93,8 @@ Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abiert
 </li>
 <br>
 <li>
-<a href="mailto:dev.gonzalezf@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Portafolio-grey?style=for-the-badge" t=mail style="margin-bottom: 5px;" />
+<a href="https://devgonzalezf.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portafolio-grey?style=for-the-badge" style="margin-bottom: 5px;" />
 </a>
 </li>
 	
