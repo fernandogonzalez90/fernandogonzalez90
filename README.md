@@ -18,37 +18,34 @@ Para esto no solo fui aprendiendo por mi cuenta, sino que tambien cuento con cer
 Sumado a esto soy uruario de Linux desde el 2006 comenzando con Debian y quedandome fijo en ArchLinux ya hace 8 años el cual uso como unico sistema.
 </p>
 
-<br>
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<br>
+
 
 <p align="center">
 
-- **Scripting**:
+**Scripting**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=python,bash&perline=12" />
   </a>
 </p>
 
-- **Backend**:
+**Backend**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=python,django,fastapi&perline=12" />
   </a>
 </p>
 
-- **DBs**:
+**DBs**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=sqlite&perline=12" />
   </a>
 </p>
 
-- **Frontend**:
+**Frontend**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react&perline=12" />
@@ -57,14 +54,14 @@ Sumado a esto soy uruario de Linux desde el 2006 comenzando con Debian y quedand
 
 <br>
 
-- **Herramientas DevOps**:
+**Herramientas DevOps**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes&perline=12" />
   </a>
 </p>
 
-- **Clouds**:
+**Clouds**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=gcp&perline=12" />
@@ -72,7 +69,7 @@ Sumado a esto soy uruario de Linux desde el 2006 comenzando con Debian y quedand
 </p>
 
 
-- **Cloud Hosting**:
+**Cloud Hosting**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=firebase,github,netlify&perline=12" />
@@ -81,21 +78,21 @@ Sumado a esto soy uruario de Linux desde el 2006 comenzando con Debian y quedand
 
 <br >
 
-- **Control de versiones**:
+**Control de versiones**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=12" />
   </a>
 </p>
 
-- **Sistemas Operativos**:
+**Sistemas Operativos**:
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=linux,debian,redhat,arch,&perline=12" />
   </a>
 </p>
 
-- **IDEs**:
+**IDEs**:
 <p align="left">
   <a href=#>
     <img src="https://skillicons.dev/icons?i=vscode,pycharm&perline=12" />
