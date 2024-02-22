@@ -1,21 +1,21 @@
 <h1 align="center"><b>Hola! , Soy Fernando Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend%20Developer;Python%20Developer;Operador%20Linux" alt="Typing SVG"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=DevOps%20Engineer;Python%20Developer;Operador%20Linux" alt="Typing SVG"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
 
-
 <br>
 
+
+
 <p>
-  Soy un apasionado desarrollador web full stack con experiencia en <b>Python, Django, Django Rest Framework, Angular, Ionic y Firebase</b>. Aunque soy un desarrollador junior, me esfuerzo por crear aplicaciones web y móviles funcionales y atractivas. Mi objetivo principal es proporcionar experiencias intuitivas y de alta calidad a los usuarios.
+Soy un entusiaste desarrollador web con un año de experiencia en frontend con Angular, tambien tengo conocimientos en backend con Python y Django, pero ahora me encuentro cambiando de rubro hacia el mundo DevOps Engineer ya que siempre me intereso la automatizacion, los sistemas linux y servidores.
 
-En mi portafolio, encontrarás ejemplos de proyectos anteriores que demuestran mis habilidades en el desarrollo web full stack. Estoy emocionado por seguir creciendo y colaborar en proyectos innovadores.
-
-Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abierto a nuevas oportunidades y desafíos en el mundo del desarrollo web. ¡Espero conectar con otros profesionales apasionados y construir juntos un futuro digital emocionante
+Para esto no solo fui aprendiendo por mi cuenta, sino que tambien cuento con certificaciones de la institution Educacion It.
+Sumado a esto soy uruario de Linux desde el 2006 comenzando con Debian y quedandome fijo en ArchLinux ya hace 8 años el cual uso como unico sistema.
 </p>
 
 <br>
@@ -27,30 +27,82 @@ Siempre estoy buscando aprender y mejorar mis habilidades, así que estoy abiert
 
 <p align="center">
 
-- **Languages**:
+- **Scripting**:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,python,django,fastapi,bash&perline=12" />
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=python,bash&perline=12" />
+  </a>
+</p>
+
+- **Backend**:
+<p align="left">
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi&perline=12" />
+  </a>
+</p>
+
+- **DBs**:
+<p align="left">
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=sqlite&perline=12" />
+  </a>
+</p>
+
+- **Frontend**:
+<p align="left">
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react&perline=12" />
   </a>
 </p>
 
 <br>
 
+- **Herramientas DevOps**:
+<p align="left">
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes&perline=12" />
+  </a>
+</p>
+
+- **Clouds**:
+<p align="left">
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=gcp&perline=12" />
+  </a>
+</p>
+
+
 - **Cloud Hosting**:
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href=#>
     <img src="https://skillicons.dev/icons?i=firebase,github,netlify&perline=12" />
   </a>
 </p>
 
 <br >
 
-- **Softwares and Tools**:
+- **Control de versiones**:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&perline=12" />
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=12" />
   </a>
 </p>
+
+- **Sistemas Operativos**:
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,debian,redhat,arch,&perline=12" />
+  </a>
+</p>
+
+- **IDEs**:
+<p align="left">
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm&perline=12" />
+  </a>
+</p>
+
+
 
 <br>
 
