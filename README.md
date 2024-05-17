@@ -12,10 +12,7 @@
 
 
 <p>
-Soy un entusiasta desarrollador web con un año de experiencia en frontend con Angular, tambien tengo conocimientos en backend con Python y Django, pero ahora me encuentro cambiando de rubro hacia el mundo DevOps Engineer ya que siempre me intereso la automatizacion, los sistemas linux y servidores.
-
-Para esto no solo fui aprendiendo por mi cuenta, sino que tambien cuento con certificaciones de la institution Educacion It.
-Sumado a esto soy uruario de Linux desde el 2006 comenzando con Debian y quedandome fijo en ArchLinux ya hace 8 años el cual utilizo como unico sistema.
+Soy DevOps Egineer proveniente del mundo de la programacion con Python y JavaScript, decidi cambiar a DevOps debido a mi gusto por crear servidores, configuraciones en el sistema y la utilizacion de GNU/Linux, todo esto me llevo a conocer el area DevOps y decidirme por esta, estudio como autodidacta pero tambien realizo cursos siendo el ultimo Cloud DevOps donde vimos tecnologias como Docker, Kubernetes, Jenkins, Ansible, Vagrant, Helm y Argo CD.
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
