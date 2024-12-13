@@ -61,7 +61,7 @@ Soy DevOps Egineer proveniente del mundo de la programacion con Python y JavaScr
 **Clouds**:
 <p align="left">
   <a href=#>
-    <img src="https://skillicons.dev/icons?i=gcp&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws&perline=12" />
   </a>
 </p>
 
